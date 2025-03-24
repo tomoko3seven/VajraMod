@@ -1,0 +1,32 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "vajramod:item/vajra"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [0, -90, 0],
+      "translation": [0, 2, 0],
+      "scale": [1.0, 1.0, 1.0]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [0, 90, 0],
+      "translation": [0, 2, 0],
+      "scale": [1.0, 1.0, 1.0]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, -90, 25],
+      "translation": [1.5, 3, 0],
+      "scale": [1.2, 1.2, 1.2]
+    },
+    "firstperson_lefthand": {
+      "rotation": [0, 90, -25],
+      "translation": [1.5, 3, 0],
+      "scale": [1.2, 1.2, 1.2]
+    },
+    "ground": {
+      "translation": [0, 2, 0],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}
