@@ -13,4 +13,6 @@ public class ModItems {
 
     public static final RegistryObject<Item> VAJRA = ITEMS.register("vajra",
             () -> new VajraItem(new VajraTier(), new Item.Properties()));
+    public static final RegistryObject<Item> VAJRACORE = ITEMS.register("vajra_core",
+            () -> new Item(new Properties()));
 }
