@@ -1,4 +1,7 @@
 {
   "item.vajramod.vajra": "Vajra",
-  "item.vajramod.vajra.tooltip": "A powerful multi-tool running on energy."
+  "item.vajramod.vajra.tooltip": "A powerful multi-tool running on energy.",
+
+  "item.vajramod.vajra_core": "Vajra Core",
+  "item.vajramod.vajra.tooltip": "Energy core for powerful tool."
 }
