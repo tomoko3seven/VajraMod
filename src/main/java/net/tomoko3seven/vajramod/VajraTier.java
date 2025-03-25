@@ -17,7 +17,7 @@ public class VajraTier implements Tier {
 
     @Override
     public float getSpeed() {
-        return 100.0f; // Супер-быстрая добыча
+        return 1000.0f; // Супер-быстрая добыча
     }
 
     @Override
@@ -27,7 +27,7 @@ public class VajraTier implements Tier {
 
     @Override
     public int getEnchantmentValue() {
-        return 100;
+        return 0;
     }
 
     @Override
